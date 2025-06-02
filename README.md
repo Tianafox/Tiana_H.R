@@ -24,13 +24,13 @@ Cybersecurity: Participation in CTF challenges and technology watch
 
 📂 Repository Content
 
+/css : custom stylesheet
+
 /img : graphic resources and images used in the portfolio
 
-/pages : folders for the various showcased projects
+/js : JavaScript files
 
 index.html : homepage of the portfolio
-
-/css : custom stylesheet
 
 README.md : this presentation file
 
