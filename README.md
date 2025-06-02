@@ -1,8 +1,6 @@
-📁 My Portfolio
-Welcome to the repository of my personal portfolio! This project aims to showcase my skills, projects, and both academic and professional background.
+📁 Welcome to the repository of my personal portfolio!
 
-👤 About Me
-Currently a second-year student in a Professional Bachelor's Degree program at the School of Management and Technological Innovation of Fianarantsoa, I am passionate about cybersecurity and new technologies.
+👤 Currently a second-year student in a Professional Bachelor's Degree program at the "ECOLE de MANAGEMENT et d'Innovation Téchnologique" of Fianarantsoa
 
 📜 Certifications:
 
@@ -24,26 +22,15 @@ Web Development: Design and development of websites
 
 Cybersecurity: Participation in CTF challenges and technology watch
 
-📚 Portfolio Objectives
-This portfolio aims to:
-
-Present my completed projects (web, cybersecurity, graphic design, 3D…)
-
-Highlight my skills and certifications
-
-Provide an overview of my academic background
-
-Offer a contact space for future collaborations or professional opportunities
-
 📂 Repository Content
 
-/assets : graphic resources and images used in the portfolio
+/img : graphic resources and images used in the portfolio
 
-/projects : folders for the various showcased projects
+/pages : folders for the various showcased projects
 
 index.html : homepage of the portfolio
 
-style.css : custom stylesheet
+/css : custom stylesheet
 
 README.md : this presentation file
 
