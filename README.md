@@ -1,6 +1,6 @@
 📁 Welcome to the repository of my personal portfolio!
 
-👤 Currently a second-year student in a Professional Bachelor's Degree program at the "ECOLE de MANAGEMENT et d'Innovation Téchnologique" of Fianarantsoa
+👤 Currently a second-year student in a Professional Bachelor's Degree program at the "ECOLE de MANAGEMENT et d'Innovation Technologique" of Fianarantsoa
 
 📜 Certifications:
 
