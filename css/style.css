@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+    font-family: 'Popins', sans-serif;
+    text-decoration: none;
+    scroll-behavior: smooth;
+}
+:root{
+    --primary-color: #168200;
+    --secondary-color: #131313;
+    --background-color: #0f0f0f;
+    --text-color: #f1f1f1;
+}
+html{
+    font-size: 60%;
+    overflow-x: hidden;
+}
+body{
+    background: var(--background-color);
+    color: var(--text-color);
+}
+.header{
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 4rem 12% 4rem;
+    position: fixed;
+    background-color: black;
+    backdrop-filter: blur(10px);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 5;
+}
+.logo{
+    font-size: 3rem;
+    font-weight: 800;
+    color: var(--text-color);
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+.logo:hover{
+    transform: scale(1.1);
+}
+span{
+    text-shadow: 0 0 25px var(--primary-color);
+}
+.navbar a{
+    color: var(--text-color);
+    font-size: 1.8rem;
+    font-weight: 500;
+    margin-left: 4rem;
+    transition: 0.3s ease;
+    border-bottom: 3px solid transparent;
+}
+.navbar a:hover, .navbar a.active{
+    color: var(--primary-color);
+    border-bottom: 3px solid var(--primary-color);
+}
+#icon-menu{
+    font-size: 3.6rem;
+    color: var(--primary-color);
+    display: none;
+}
